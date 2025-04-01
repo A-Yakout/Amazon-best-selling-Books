@@ -1,10 +1,10 @@
 # Amazon Best-Selling Books (2009-2019) - Data Analysis
 
-#### 📌 Overview####
+#### 📌 Overview
 
 This project explores the Amazon Best-Selling Books (2009-2019) dataset to uncover insights into book sales trends, pricing impact, and author performance. The dataset contains information on the top 50 best-selling books per year from 2009 to 2019, along with their ratings, prices, genres, and authors.
 
-#### 📊 Objectives####
+#### 📊 Objectives
 
 What factors influence book rankings? (e.g., Does price impact user ratings?)
 
@@ -14,7 +14,7 @@ Who are the most successful authors in terms of best-selling books?
 
 Do higher-priced books receive better ratings?
 
-#### 📂 Dataset####
+#### 📂 Dataset
 
 Source: Kaggle - Amazon Best-Selling Books (2009-2019)
 
@@ -34,7 +34,7 @@ Year: Year of the bestseller listing
 
 Genre: Fiction / Non-Fiction
 
-#### 📈 Exploratory Data Analysis (EDA)####
+#### 📈 Exploratory Data Analysis (EDA)
 
 Missing Values & Data Cleaning
 
@@ -46,7 +46,7 @@ Price vs. User Rating Correlation
 
 Yearly Trends in Best-Selling Books
 
-#### 🔍 Insights & Findings####
+#### 🔍 Insights & Findings
 
 Do books with a high number of reviews tend to have higher ratings?
 
@@ -56,7 +56,7 @@ Does the price of a book influence its rating?
 
 How have book sales evolved over the years?
 
-#### 🛠️ Tools & Libraries####
+#### 🛠️ Tools & Libraries
 
 Python (pandas, numpy, seaborn, matplotlib)
 
@@ -64,4 +64,4 @@ Jupyter Notebook
 
 -----------------------------
 
-🚀 Author:Abdelrhman Yakout
+**🚀 Author:Abdelrhman Yakout**
