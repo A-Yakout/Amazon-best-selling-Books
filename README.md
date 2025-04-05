@@ -16,6 +16,8 @@ Do higher-priced books receive better ratings?
 
 #### 📂 Dataset
 
+https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+
 Source: Kaggle - Amazon Best-Selling Books (2009-2019)
 
 Key Features:
